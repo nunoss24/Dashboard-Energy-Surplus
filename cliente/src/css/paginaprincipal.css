@@ -1,0 +1,15 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.tamimg {
+    width: 300px;
+    height: 300px;
+}
+
+.fundo {
+    background: rgb(161, 211, 254);
+    background: linear-gradient(145deg, rgba(161, 211, 254, 1) 0%, rgba(163, 173, 244, 1) 100%);
+}
